@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Adrienne Frey",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Full Stack Software Developer" ],
       "social": [
         {
           "name": "github",
@@ -10,7 +10,7 @@
         }
       ],
 
-      "image": "myProfile.jpg"
+      "image": "img.jpg"
     },
     "skills": {
       "icons": [
@@ -35,6 +35,12 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },
+
+        {
+          "name":"React",
+          "class":"devicon-react-bootstrap",
+          "level":"65"
         }
       ]
     }
