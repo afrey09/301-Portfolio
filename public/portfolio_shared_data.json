@@ -7,6 +7,12 @@
           "name": "github",
           "url": "https://github.com/afrey09",
           "class": "fab fa-github"
+        },
+
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/adrienne-frey-83a69851/",
+          "class": "fab fa-linkedin"
         }
       ],
 
