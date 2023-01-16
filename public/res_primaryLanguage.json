@@ -21,16 +21,8 @@
         "url": "afrey09.github.io/cookies-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -44,10 +36,7 @@
         ],
         "url": "https://word-rummage.github.io/Word-Rummage/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
+         
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -65,54 +54,35 @@
         "url": "https://horned-beasts-73a797.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            
+            "class": "devicon-react-plain",
+            "name": "React"
+            
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Student",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "11.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "CSS3",
+          "HTML5"
         ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+    
       }
     ]
   }
